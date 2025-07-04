@@ -7,11 +7,11 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
       .nav-link.active {
-        color: #5fdb81 !important;
+        color: #347433 !important;
         font-weight: bold;
       }
       .btn-contact {
-        background-color: #5fdb81;
+        background-color: #347433;
         color: white;
         border-radius: 30px;
         padding: 8px 24px;
