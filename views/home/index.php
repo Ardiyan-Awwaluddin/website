@@ -4,14 +4,14 @@
     <div class="row align-items-center g-5 mb-5">
       
      
-      <div class="col-lg-6 mb-4 mb-lg-0">
+      <div class="col-lg-6 mb-4 mb-lg-0" id= "Beranda">
         <h1 class="fw-bold display-4 mb-5" style="line-height: 1.2;">
-          MA. <span style="color: #347433;">NU </span>TBS Kudus
+          MA <span style="color: #347433;">NU </span>TBS Kudus
         </h1>
         <p class="fs-5 text-muted mb-2">Halo, selamat datang di Website Resmi</p>
         
         <p class="fs-6" style="text-align: justify;">
-          MA. NU TBS Kudus adalah madrasah yang berkomitmen untuk mencetak generasi unggul yang berakhlak mulia, berilmu, dan berwawasan keislaman. Berlokasi di jantung Kota Kudus, kami menggabungkan nilai-nilai keislaman Ahlussunnah wal Jamaah dengan kurikulum nasional dalam lingkungan belajar yang modern dan kondusif.
+          MA NU TBS Kudus adalah madrasah yang berkomitmen untuk mencetak generasi unggul yang berakhlak mulia, berilmu, dan berwawasan keislaman. Berlokasi di jantung Kota Kudus, kami menggabungkan nilai-nilai keislaman Ahlussunnah wal Jamaah dengan kurikulum nasional dalam lingkungan belajar yang modern dan kondusif.
         </p>
         
        
@@ -78,8 +78,8 @@
 <div class="container py-4">
   <div class="text-center justify-content-center align-items-center d-flex flex-column my-5">
   <div class="w-50">
-    <h1 class="fw-bold fs-2">Kenapa Harus</i><br> MA. <span style="color: #347433;">NU </span>TBS KUDUS?</h1>
-    <p class="text-center fw-bold">Alasan kenapa harus memilih MA. NU TBS KUDUS.</p>
+    <h1 class="fw-bold fs-2">Kenapa Harus</i><br> MA <span style="color: #347433;">NU </span>TBS KUDUS?</h1>
+    <p class="text-center fw-bold">Alasan kenapa harus memilih MA NU TBS KUDUS.</p>
   </div>
   </div>
 </div>
@@ -109,11 +109,7 @@
           <div class="card-body">
             <img src="https://png.pngtree.com/png-vector/20230822/ourmid/pngtree-teacher-icon-png-image_6842887.png" style="width: 80px; display: block; margin-left: auto; margin-right: auto;">
             <div class="card-title fw-bold text-center">pengajar Kompeten</div>
-<<<<<<< HEAD
-            <p class="text-center">Guru terbaik dengan pengalaman</p>
-=======
             <p class="text-center">Guru terbaik dengan pengalaman dan berkompeten</p>
->>>>>>> 1528a27 (First commit)
           </div>
         </div>
       </div>
@@ -129,14 +125,10 @@
     </div>
   </div>
 </div>
-<<<<<<< HEAD
-<div class="container py-4">
-=======
 <div class="container py-4" id="profil">
->>>>>>> 1528a27 (First commit)
   <div class="text-center justify-content-center align-items-center d-flex flex-column my-5">
   <div class="w-50">
-    <h1 class="fw-bold fs-2">Profil</i><br> MA. <span style="color: #347433;">NU </span>TBS KUDUS?</h1>
+    <h1 class="fw-bold fs-2">Profil</i><br> MA <span style="color: #347433;">NU </span>TBS KUDUS</h1>
   </div>
   </div>
   <div class="d-flex align-items-start gap-4 flex-wrap">
@@ -160,18 +152,11 @@ Kepala MA NU TBS Kudus
   </div>
 </div>
 </div>
-<<<<<<< HEAD
-<div class="container py-4">
-  <div class="text-center justify-content-center align-items-center d-flex flex-column my-5">
-  <div class="w-50">
-    <h1 class="fw-bold fs-2">Extrakulikuler Di</i><br> MA. <span style="color: #347433;">NU </span>TBS KUDUS?</h1>
-=======
 <div class="container py-4" id="ekstrakulikuler">
   <div class="text-center justify-content-center align-items-center d-flex flex-column my-5">
   <div class="w-50">
-    <h1 class="fw-bold fs-2">Ektrakulikuler Di</i><br> MA. <span style="color: #347433;">NU </span>TBS KUDUS?</h1>
->>>>>>> 1528a27 (First commit)
-    <p class="text-center fw-bold mb-1">Pilihan Extrakulikuler di MA. NU TBS KUDUS </p>
+    <h1 class="fw-bold fs-2">Ektrakulikuler Di</i><br> MA <span style="color: #347433;">NU </span>TBS KUDUS</h1>
+    <p class="text-center fw-bold mb-1">Pilihan Extrakulikuler di MA NU TBS KUDUS </p>
   </div>
   </div>
 </div>
@@ -226,7 +211,7 @@ Kepala MA NU TBS Kudus
       <div class="col-3">
         <div class="card shadow">
           <div class="card-body">
-            <img src="https://pesantrenalhilal.com/wp-content/uploads/2024/09/Suasana-Ekstrakurikuler-Tenis-Meja-yang-Memikat-Hati-Para-Santri-Pesantren-Al-Hilal-2-Panyileukan.jpg" style="width: 100%; height: 150px; display: block; margin-left: auto; margin-right: auto;">
+            <img src="https://pesantrenalhilal.com/wp-content/uploads/2024/09/Suasana-Ekstrakurikuler-Tenis-Meja-yang-Memikat-Hati-Para-Santri-Pesantren-Al-Hilal-2-Panyileukan.jpg" style="width: 100%; height: 180px; display: block; margin-left: auto; margin-right: auto;">
             <div class="card-title fw-bold text-center">Tenis Meja</div>
             <p class="text-center">waktu: 07.00</p>
           </div>
@@ -244,20 +229,16 @@ Kepala MA NU TBS Kudus
       <div class="col-3">
         <div class="card shadow">
           <div class="card-body">
-            <img src="https://www.smpn49-jkt.sch.id/uploads/images/medium/ektra_2_4__medium.jpeg" style="width: 100%; height: 150px; display: block; margin-left: auto; margin-right: auto;">
+            <img src="https://www.smpn49-jkt.sch.id/uploads/images/medium/ektra_2_4__medium.jpeg" style="width: 100%; height: 180px; display: block; margin-left: auto; margin-right: auto;">
             <div class="card-title fw-bold text-center">Pramuka</div>
             <p class="text-center">waktu: 13.45</p>
           </div>
         </div>
       </div>
-<<<<<<< HEAD
-      <div class="container py-4">
-=======
       <div class="container py-4" id = "Berita">
->>>>>>> 1528a27 (First commit)
   <div class="text-center justify-content-center align-items-center d-flex flex-column my-5">
   <div class="w-50">
-    <h1 class="fw-bold fs-2">Berita Terbaru Di</i><br> MA <span style="color: #347433;">NU </span>TBS KUDUS?</h1>
+    <h1 class="fw-bold fs-2">Berita Terbaru Di</i><br> MA <span style="color: #347433;">NU </span>TBS KUDUS</h1>
     <p class="text-center fw-bold">Berita terbaru tentang MTs. NU TBS KUDUS</p>
   </div>
   </div>
@@ -268,7 +249,7 @@ Kepala MA NU TBS Kudus
       <div class="col-4">
         <div class="card shadow mb-3">
           <div class="card-body">
-          <img src="https://ma.madrasahtbs.sch.id/wp-content/uploads/2025/06/Kepergian-KH.-Ahmadi.jpg" style="width: 100%;">
+          <img src="https://ma.madrasahtbs.sch.id/wp-content/uploads/2025/06/Kepergian-KH.-Ahmadi.jpg" style="width: 100%;" height="233px">
             <div class="card-title fw-bold text-center">Pengurus Yayasan, Guru dan Santri TBS Antar Kepergian KH Ahmadi</div>
           </div>
         </div>
@@ -289,14 +270,10 @@ Kepala MA NU TBS Kudus
           </div>
         </div>
       </div>  
-<<<<<<< HEAD
-      <div  style="background-color: #ECFAE5;" class="container py-4">
-=======
       <div  style="background-color: #ECFAE5;" class="container py-4" id= "Galeri">
->>>>>>> 1528a27 (First commit)
   <div class="text-center justify-content-center align-items-center d-flex flex-column my-5">
   <div class="w-50">
-    <h1 class="fw-bold fs-2"> Foto Dokumentasi</i><br> MA. <span style="color: #347433;">NU </span>TBS KUDUS</h1>
+    <h1 class="fw-bold fs-2"> Foto Dokumentasi</i><br> MA <span style="color: #347433;">NU </span>TBS KUDUS</h1>
   </div>
   </div>
   <div class="my-2">
@@ -331,13 +308,11 @@ Kepala MA NU TBS Kudus
         <footer class="text-white pt-5 pb-4" style="background-color: #347433;">
   <div class="container text-center text-md-start">
     <div class="row">
-      <!-- Profil Madrasah -->
       <div class="col-md-4">
         <h5 class="text-uppercase fw-bold text-warning">MA NU TBS Kudus</h5>
         <p>Madrasah Aliyah Nahdlatul Ulama Tasywiquth Thullab Salafiyah Kudus merupakan lembaga pendidikan Islam yang berkomitmen pada pembentukan akhlakul karimah dan prestasi akademik.</p>
       </div>
 
-      <!-- Kontak -->
       <div class="col-md-4">
         <h5 class="text-uppercase fw-bold text-warning">Kontak Kami</h5>
         <p><i class="fas fa-map-marker-alt"></i> Jl. KH. M. Arwani No. 01, Kudus, Jawa Tengah</p>
@@ -346,7 +321,6 @@ Kepala MA NU TBS Kudus
       </div>
     </div>
 
-    <!-- Media Sosial -->
     <div class="text-center mt-4">
       <a href="#" class="text-white me-3"><i class="fab fa-facebook"></i></a>
       <a href="#" class="text-white me-3"><i class="fab fa-twitter"></i></a>
@@ -354,7 +328,6 @@ Kepala MA NU TBS Kudus
       <a href="#" class="text-white me-3"><i class="fab fa-youtube"></i></a>
     </div>
 
-    <!-- Copyright -->
     <div class="text-center mt-3">
       <small>&copy; 2025 MA NU TBS Kudus. All Rights Reserved.</small>
     </div>
