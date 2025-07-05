@@ -27,14 +27,18 @@
           <a class="navbar-brand d-flex align-items-center gap-1" href="<?= BASE_URL ?>">
             <img src="https://www.mtsnutbs.sch.id/assets/img/logo.png" style="width: 50px;">
           </a>
+<<<<<<< HEAD
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown">
             <span class="navbar-toggler-icon"></span>
           </button>
+=======
+>>>>>>> 1528a27 (First commit)
           <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul style="font-size: 20px;" class="navbar-nav mx-auto mb-2 mb-lg-0 gap-3">
               <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="<?= BASE_URL ?>">Beranda</a>
               </li>
+<<<<<<< HEAD
               <li class="nav-item dropdown me-3 fw-semibold">
                 <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Tentang Kami</a>
                 <ul class="dropdown-menu">
@@ -60,6 +64,20 @@
               </li>
               <li class="fw-semibold" class="nav-item me-3">
                 <a class="nav-link" href="#">Berita</a>
+=======
+              <li class="nav-item me-3 fw-semibold">
+                <a class="nav-link" href="#profil">Profil</a>
+              </li>
+              <li class="nav-item dropdown me-3 fw-semibold">
+                <a class="nav-link" href="#ekstrakulikuler">Ekstrakurikuler</a>
+                
+              </li>
+              <li class="nav-item me-3 fw-semibold">
+                <a class="nav-link" href="#Berita">Berita</a>
+              </li>
+              <li class="fw-semibold" class="nav-item me-3">
+                <a class="nav-link" href="#Galeri">Galeri</a>
+>>>>>>> 1528a27 (First commit)
               </li>
     </ul>
             <a href="<?= BASE_URL ?>/contact" class="btn btn-contact">Contact</a>

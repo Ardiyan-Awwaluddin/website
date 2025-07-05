@@ -109,7 +109,11 @@
           <div class="card-body">
             <img src="https://png.pngtree.com/png-vector/20230822/ourmid/pngtree-teacher-icon-png-image_6842887.png" style="width: 80px; display: block; margin-left: auto; margin-right: auto;">
             <div class="card-title fw-bold text-center">pengajar Kompeten</div>
+<<<<<<< HEAD
             <p class="text-center">Guru terbaik dengan pengalaman</p>
+=======
+            <p class="text-center">Guru terbaik dengan pengalaman dan berkompeten</p>
+>>>>>>> 1528a27 (First commit)
           </div>
         </div>
       </div>
@@ -125,7 +129,11 @@
     </div>
   </div>
 </div>
+<<<<<<< HEAD
 <div class="container py-4">
+=======
+<div class="container py-4" id="profil">
+>>>>>>> 1528a27 (First commit)
   <div class="text-center justify-content-center align-items-center d-flex flex-column my-5">
   <div class="w-50">
     <h1 class="fw-bold fs-2">Profil</i><br> MA. <span style="color: #347433;">NU </span>TBS KUDUS?</h1>
@@ -152,10 +160,17 @@ Kepala MA NU TBS Kudus
   </div>
 </div>
 </div>
+<<<<<<< HEAD
 <div class="container py-4">
   <div class="text-center justify-content-center align-items-center d-flex flex-column my-5">
   <div class="w-50">
     <h1 class="fw-bold fs-2">Extrakulikuler Di</i><br> MA. <span style="color: #347433;">NU </span>TBS KUDUS?</h1>
+=======
+<div class="container py-4" id="ekstrakulikuler">
+  <div class="text-center justify-content-center align-items-center d-flex flex-column my-5">
+  <div class="w-50">
+    <h1 class="fw-bold fs-2">Ektrakulikuler Di</i><br> MA. <span style="color: #347433;">NU </span>TBS KUDUS?</h1>
+>>>>>>> 1528a27 (First commit)
     <p class="text-center fw-bold mb-1">Pilihan Extrakulikuler di MA. NU TBS KUDUS </p>
   </div>
   </div>
@@ -235,7 +250,11 @@ Kepala MA NU TBS Kudus
           </div>
         </div>
       </div>
+<<<<<<< HEAD
       <div class="container py-4">
+=======
+      <div class="container py-4" id = "Berita">
+>>>>>>> 1528a27 (First commit)
   <div class="text-center justify-content-center align-items-center d-flex flex-column my-5">
   <div class="w-50">
     <h1 class="fw-bold fs-2">Berita Terbaru Di</i><br> MA <span style="color: #347433;">NU </span>TBS KUDUS?</h1>
@@ -270,7 +289,11 @@ Kepala MA NU TBS Kudus
           </div>
         </div>
       </div>  
+<<<<<<< HEAD
       <div  style="background-color: #ECFAE5;" class="container py-4">
+=======
+      <div  style="background-color: #ECFAE5;" class="container py-4" id= "Galeri">
+>>>>>>> 1528a27 (First commit)
   <div class="text-center justify-content-center align-items-center d-flex flex-column my-5">
   <div class="w-50">
     <h1 class="fw-bold fs-2"> Foto Dokumentasi</i><br> MA. <span style="color: #347433;">NU </span>TBS KUDUS</h1>
