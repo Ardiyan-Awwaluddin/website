@@ -3,8 +3,9 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>System Informasi Sekolah | <?= $data['title'] ?? '' ?></title>
+    <title>Website MA NU TBS KUDUS | <?= $data['title'] ?? '' ?></title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
     <style>
       .nav-link.active {
         color: #347433 !important;
@@ -24,7 +25,6 @@
       <nav class="navbar navbar-expand-lg bg-light shadow-sm">
         <div class="container">
           <a class="navbar-brand d-flex align-items-center gap-1" href="<?= BASE_URL ?>">
-            <!-- <span>MTs</span><span>NU TBS KUDUS</span> -->
             <img src="https://www.mtsnutbs.sch.id/assets/img/logo.png" style="width: 50px;">
           </a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown">
@@ -42,38 +42,26 @@
                   <li><a class="dropdown-item" href="#">Sejarah</a></li>
                 </ul>
               </li>
-              <li class="nav-item dropdown me-3 fw-semibold">
-                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Program</a>
-                <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="#">Teknik</a></li>
-                  <li><a class="dropdown-item" href="#">Bisnis</a></li>
-                </ul>
-              </li>
+              
               <li class="nav-item dropdown me-3 fw-semibold">
                 <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Guru</a>
                 <ul class="dropdown-menu">
                   <li><a class="dropdown-item" href="#">Daftar Guru</a></li>
-                  <li><a class="dropdown-item" href="#">Kegiatan</a></li>
-                </ul>
+                    </ul>
               </li>
               <li class="nav-item dropdown me-3 fw-semibold">
                 <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Siswa</a>
                 <ul class="dropdown-menu">
                   <li><a class="dropdown-item" href="#">Ekstrakurikuler</a></li>
-                  <li><a class="dropdown-item" href="#">Prestasi</a></li>
                 </ul>
+              </li>
+              <li class="nav-item me-3 fw-semibold">
+                <a class="nav-link" href="#" data-bs-toggle="dropdown">Galeri</a>
               </li>
               <li class="fw-semibold" class="nav-item me-3">
                 <a class="nav-link" href="#">Berita</a>
               </li>
-              <li class="nav-item dropdown me-3 fw-semibold">
-                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Fitur</a>
-                <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="#">E-Learning</a></li>
-                  <li><a class="dropdown-item" href="#">Perpustakaan</a></li>
-                </ul>
-              </li>
-            </ul>
+    </ul>
             <a href="<?= BASE_URL ?>/contact" class="btn btn-contact">Contact</a>
           </div>
         </div>

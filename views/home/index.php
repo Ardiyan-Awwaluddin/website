@@ -22,6 +22,10 @@
 
        
         <p class="text-muted">We are in social media:</p>
+        <img src="https://images.icon-icons.com/2657/PNG/256/whatsapp_icon_161055.png" style="width: 50px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/768px-Facebook_icon.svg.png" style="width: 35px; margin-right: 8px;">
+        <img src="https://images.icon-icons.com/3041/PNG/512/tiktok_logo_icon_189233.png" style="width: 39px; margin-right: 8px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/500px-Instagram_icon.png" style="width: 32px;">
       </div>
       
    
@@ -33,29 +37,37 @@
 </div>
 <div class="my-2">
   <div class="container">
-    <div class="row">
-      <div class="col-4">
-        <div class="card shadow">
-          <div class="card-body">
-            <div class="card-title">Guru</div>
-           
-            <p class="card-text text-center h2">50</p>
+    <div class="row justify-content-center">
+      <div class="col-4 d-flex justify-content-center">
+        <div style="width: 200px; height: 150px; background-color: #347433;" class="card shadow">
+          <div class="card-body text-center text-light">
+            <h5 class="card-title">Guru</h5>
+            <div class="d-flex flex-column align-items-center">
+              <i class="fa-solid fa-user fa-2x mb-2"></i>
+              <p class="card-text h2 m-0">50</p>
+            </div>
           </div>
         </div>
       </div>
-      <div class="col-4">
-        <div class="card shadow">
-          <div class="card-body">
-            <div class="card-title">Siswa</div>
-            <p class="card-text text-center h2">300</p>
+        <div class="col-4 d-flex justify-content-center">
+        <div style="width: 200px; height: 150px; background-color: #347433;" class="card shadow">
+          <div class="card-body text-center text-light">
+            <h5 class="card-title">Siswa</h5>
+            <div class="d-flex flex-column align-items-center">
+              <i class="fa-solid fa-user-graduate fa-2x mb-2"></i>
+              <p class="card-text h2 m-0">300</p>
+            </div>
           </div>
         </div>
       </div>
-      <div class="col-4">
-        <div class="card shadow">
-          <div class="card-body">
-            <div class="card-title">Kelas</div>
-            <p class="card-text text-center h2">50</p>
+      <div class="col-4 d-flex justify-content-center">
+        <div style="width: 200px; height: 150px; background-color: #347433;" class="card shadow">
+          <div  class="card-body text-center text-light">
+            <h5 class="card-title">Kelas</h5>
+            <div class="d-flex flex-column align-items-center">
+              <i class="fa-solid fa-building-columns fa-2x mb-2"></i>
+              <p class="card-text h2 m-0">17</p>
+            </div>
           </div>
         </div>
       </div>
